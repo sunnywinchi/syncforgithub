@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin http://github.com/............
+git push origin master
+clear
+git push --set-upstream origin master
+git add .
+git commit -m "Second commit"
+git push
